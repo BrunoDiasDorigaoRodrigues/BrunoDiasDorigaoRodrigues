@@ -1,5 +1,12 @@
 <div align="center">
 
+# 👋 Olá, eu sou o Bruno Dias!
+
+🎓 Estudante de **Tecnologia da Informação** no **SENAI**
+
+💻 Apaixonado por programação, automação e desenvolvimento de software.
+
+🚀 Estou sempre criando projetos para aprender na prática e evoluir minhas habilidades.
 
 
 ### 💥 Estudante de Tecnologia | Desenvolvedor em evolução 💥
@@ -13,15 +20,6 @@
 
 </div>
 
----
-
-# 👋 Olá, eu sou o Bruno Dias!
-
-🎓 Estudante de **Tecnologia da Informação** no **SENAI**
-
-💻 Apaixonado por programação, automação e desenvolvimento de software.
-
-🚀 Estou sempre criando projetos para aprender na prática e evoluir minhas habilidades.
 
 ---
 
