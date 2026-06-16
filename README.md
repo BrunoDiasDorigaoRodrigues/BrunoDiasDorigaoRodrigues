@@ -1,31 +1,42 @@
+```md
 <div align="center">
 
-# Olá, eu sou o Bruno Dias! 👋
+# 🟨⚡ BRUNO DIAS ⚡🟦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=8000FF&center=true&vCenter=true&width=700&lines=Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Aprendendo+Python+e+Automa%C3%A7%C3%A3o;Desenvolvedor+Front-end;Sempre+em+busca+de+novos+desafios!" alt="Typing SVG" />
+## 💥 DESENVOLVEDOR EM EVOLUÇÃO 💥
+
+<img src="https://readme-typing-svg.demolab.com?font=Bangers&size=30&duration=3000&pause=1000&color=FFD400&center=true&vCenter=true&width=700&lines=Estudante+de+TI+no+SENAI;Python+%7C+HTML+%7C+CSS+%7C+C%2B%2B;Arduino+%7C+ESP32+%7C+Automa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo!" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🦸 Olá, eu sou o Bruno Dias!
 
-🎓 Estudante de Tecnologia da Informação pelo **SENAI**  
-💻 Apaixonado por programação e desenvolvimento de software  
-🐍 Estudando **Python**, **HTML**, **CSS** e **C++ com Arduino**  
-📚 Sempre buscando aprender novas tecnologias e criar projetos práticos
+> **"Cada projeto é uma oportunidade para evoluir e superar o anterior."**
 
----
-
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,vscode" />
-</p>
+🎓 Estudante de **Tecnologia da Informação (SENAI)**  
+💻 Apaixonado por programação, automação e desenvolvimento de software  
+🚀 Buscando criar soluções práticas e aprender novas tecnologias todos os dias.
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 🟨 Poderes em Desenvolvimento
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=00979D)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge)
+
+</div>
+
+---
+
+# 📊 Estatísticas
 
 <div align="center">
 
@@ -37,37 +48,46 @@
 
 ---
 
-## 🔥 Sequência de contribuições
+# 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BrunoDiasDorigaoRodrigues&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=BrunoDiasDorigaoRodrigues&theme=highcontrast&hide_border=true" />
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+# ⚡ Missão Atual
 
-- 🐍 **Python**
-- 🤖 **Automação**
-- 🌐 **Desenvolvimento Web**
-- ⚡ **Arduino e ESP32**
-- 🧠 **Lógica de Programação**
+- 🐍 Aprimorando meus conhecimentos em **Python**
+- 🤖 Desenvolvendo projetos de **Automação**
+- 🌐 Estudando **Desenvolvimento Web**
+- 🔌 Criando soluções com **Arduino e ESP32**
+- 🧠 Fortalecendo a **Lógica de Programação**
 
 ---
 
-## 📫 Contato
+# 💥 Objetivo
 
-- 📧 **Email:** bdias80549@gmail.com
-- 💻 **GitHub:** https://github.com/BrunoDiasDorigaoRodrigues
+Transformar ideias em projetos reais, aprender continuamente e evoluir como desenvolvedor, enfrentando novos desafios a cada linha de código.
+
+---
+
+# 📫 Contato
+
+📧 **Email:** **bdias80549@gmail.com**
+
+🐙 **GitHub:**  
+https://github.com/BrunoDiasDorigaoRodrigues
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+## 🟨💙 O PRÓXIMO NÍVEL ESTÁ SEMPRE À FRENTE 💙🟨
 
-<img src="https://komarev.com/ghpvc/?username=BrunoDiasDorigaoRodrigues&color=8000FF&style=for-the-badge" />
+⭐ Obrigado por visitar meu perfil!
 
 </div>
+```
