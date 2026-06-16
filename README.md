@@ -97,6 +97,6 @@
 
 ## ⭐ Obrigado por visitar meu perfil!
 
-### 💛 Continue aprendendo. Continue evoluindo. 💙
+
 
 </div>
