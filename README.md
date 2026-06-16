@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o Bruno Dias! 👋
 
-<!--
-**BrunoDiasDorigaoRodrigues/BrunoDiasDorigaoRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+🎓 Estudante de Tecnologia da Informação pelo SENAI  
+💻 Estudando Python, HTML, CSS e C++ (Arduino)  
+📚 Buscando evoluir em programação, automação e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias
+
+- 🐍 Python
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ Arduino (C++)
+- 🔧 Git e GitHub
+- 💙 Visual Studio Code
+
+---
+
+## 📫 Contato
+
+- 📧 Email: seuemail@gmail.com
+- 💼 GitHub: https://github.com/BrunoDiasDorigaoRodrigues
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoDiasDorigaoRodrigues&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDiasDorigaoRodrigues&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Sempre aprendendo e desenvolvendo novos projetos!
