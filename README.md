@@ -49,11 +49,11 @@
 
 ## 📚 Atualmente estudando
 
-- 🐍 Python
-- 🤖 Automação
-- 🌐 Desenvolvimento Web
-- ⚡ Arduino e ESP32
-- 🧠 Lógica de Programação
+- 🐍 **Python**
+- 🤖 **Automação**
+- 🌐 **Desenvolvimento Web**
+- ⚡ **Arduino e ESP32**
+- 🧠 **Lógica de Programação**
 
 ---
 
