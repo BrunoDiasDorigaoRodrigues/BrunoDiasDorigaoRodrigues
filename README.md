@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡🟨 BRUNO DIAS 🟦⚡
+
 
 ### 💥 Estudante de Tecnologia | Desenvolvedor em evolução 💥
 
