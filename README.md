@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Bruno Dias!
+# 👋 Olá, eu sou Bruno Dias!
 
 🎓 Estudante de **Tecnologia da Informação** no **SENAI**
 
