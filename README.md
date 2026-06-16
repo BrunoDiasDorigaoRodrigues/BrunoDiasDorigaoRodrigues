@@ -21,7 +21,7 @@
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@gmail.com
+- 📧 Email: bdias80549.com
 - 💼 GitHub: https://github.com/BrunoDiasDorigaoRodrigues
 
 ---
