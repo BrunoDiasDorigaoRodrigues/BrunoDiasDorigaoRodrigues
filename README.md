@@ -59,7 +59,7 @@
 
 ## 📫 Contato
 
-- 📧 **Email:** gabrielucio0908@gmail.com
+- 📧 **Email:** bdias80549@gmail.com
 - 💻 **GitHub:** https://github.com/BrunoDiasDorigaoRodrigues
 
 ---
