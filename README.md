@@ -1,134 +1,129 @@
-👋 Olá! Eu sou Bruno Dias
-💻 Estudante de Tecnologia da Informação | Desenvolvedor em evolução 🚀
+<div align="center">
 
-🎓 Estudante de Tecnologia da Informação no SENAI, apaixonado por tecnologia e sempre buscando transformar conhecimento em projetos reais.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:4169E1,100:00BFFF&height=220&section=header&text=Bruno%20Dias&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Tecnologia%20da%20Informação%20🚀&descAlignY=58&descSize=20"/>
 
-Tenho interesse principalmente em desenvolvimento, programação, banco de dados, automação e eletrônica, aprendendo constantemente através de projetos, desafios e experiências práticas.
+# 👋 Olá! Eu sou Bruno Dias
 
-🧑‍💻 Sobre mim
+### 💻 Estudante de Tecnologia da Informação | Desenvolvedor em evolução
 
-Sou estudante de Tecnologia da Informação e estou construindo minha trajetória na área de desenvolvimento.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BrunoDiasDorigaoRodrigues&label=Profile%20Views&color=6A0DAD&style=for-the-badge" />
+</p>
 
-Atualmente, venho desenvolvendo conhecimentos em:
+</div>
 
-🐍 Python
+---
 
-🌐 HTML & CSS
+## 🧑‍💻 Sobre mim
 
-🗄️ Banco de Dados & SQL
+🎓 Sou estudante de **Tecnologia da Informação no SENAI** e estou construindo minha trajetória na área de desenvolvimento.
 
-🤖 Automação
+💡 Sou apaixonado por tecnologia e gosto de aprender através de **projetos práticos, desafios e experiências reais**.
 
-⚡ Arduino & ESP32
+Atualmente estou desenvolvendo conhecimentos em:
 
-🧠 Lógica de Programação
+- 🐍 **Python**
+- 🌐 **HTML & CSS**
+- 🗄️ **Banco de Dados & SQL**
+- 🤖 **Automação**
+- ⚡ **Arduino & ESP32**
+- 🧠 **Lógica de Programação**
+- 🔧 **Git & GitHub**
 
-🔧 Git & GitHub
+🚀 Meu objetivo é evoluir constantemente, criar projetos cada vez mais completos e transformar aquilo que aprendo em **soluções práticas**.
 
-🚀 Meu objetivo é evoluir constantemente, desenvolver projetos cada vez mais completos e transformar aquilo que aprendo em soluções práticas.
+---
 
-🛠️ Tecnologias & Ferramentas
-💻 Desenvolvimento
+# 🚀 Minha Jornada
 
+<div align="center">
 
+### 📚 Aprender
+⬇️
+### 💻 Praticar
+⬇️
+### 🛠️ Criar projetos
+⬇️
+### 🐛 Errar & Corrigir
+⬇️
+### 🧠 Aprender novamente
+⬇️
+### 🚀 Evoluir
 
+</div>
 
+---
 
-🗄️ Banco de Dados
+# 🛠️ Technology Stack
 
+## 💻 Desenvolvimento
 
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
 
-⚡ Eletrônica & Automação
+</div>
 
+<br>
 
+## 🗄️ Banco de Dados
 
+<div align="center">
 
-🔧 Ferramentas
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 
+</div>
 
+<br>
 
+## ⚡ Eletrônica & Automação
 
+<div align="center">
 
-📚 Atualmente estudando
-Tecnologia	Progresso
-🐍 Python	🟢 Evoluindo
-🌐 HTML & CSS	🟢 Evoluindo
-🗄️ Banco de Dados	🟡 Estudando
-🔎 SQL	🟡 Estudando
-🤖 Automação	🟡 Praticando
-⚡ Arduino / ESP32	🟡 Praticando
-🔧 Git & GitHub	🟢 Evoluindo
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
 
-💡 Meu foco é aprender na prática e transformar cada novo conhecimento em um projeto.
+</div>
 
-🚀 O que estou buscando aprender
+<br>
 
+## 🔧 Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 📚 Atualmente Estudando
+
+<div align="center">
+
+| Tecnologia | Progresso |
+|:---:|:---:|
+| 🐍 Python | 🟢 Evoluindo |
+| 🌐 HTML & CSS | 🟢 Evoluindo |
+| 🗄️ Banco de Dados | 🟡 Estudando |
+| 🔎 SQL | 🟡 Estudando |
+| 🤖 Automação | 🟡 Praticando |
+| ⚡ Arduino / ESP32 | 🟡 Praticando |
+| 🔧 Git & GitHub | 🟢 Evoluindo |
+
+</div>
+
+> 💡 **Meu foco:** aprender na prática e transformar cada novo conhecimento em um projeto.
+
+---
+
+# 🚀 O que estou buscando aprender
+
+```text
 🐍 Aprofundar meus conhecimentos em Python
-
 🗄️ Evoluir em Banco de Dados e SQL
-
-🌐 Desenvolver aplicações web
-
-🤖 Criar projetos de automação
-
+🌐 Desenvolver aplicações Web
+🤖 Criar projetos de Automação
 ⚡ Explorar Arduino, ESP32 e IoT
-
 🧠 Melhorar minha lógica de programação
-
 🔧 Aprimorar meu fluxo de trabalho com Git e GitHub
-
 🚀 Desenvolver projetos cada vez mais completos
-
-💡 Projetos
-
-Estou sempre buscando transformar meus estudos em projetos práticos.
-
-🔭 Atualmente
-
-💻 Desenvolvendo projetos para colocar meus conhecimentos em prática
-
-🗄️ Explorando conceitos de Banco de Dados e SQL
-
-🤖 Criando ideias envolvendo automação e eletrônica
-
-⚡ Experimentando Arduino e ESP32
-
-🌐 Aprimorando meus conhecimentos em desenvolvimento web
-
-🧠 Trabalhando constantemente na evolução da minha lógica de programação
-
-🎯 Meus objetivos
-
-🟢 Aprender novas tecnologias
-
-🟢 Desenvolver projetos reais
-
-🟡 Aprimorar meus conhecimentos em Python
-
-🟡 Dominar Banco de Dados e SQL
-
-🟡 Evoluir no Desenvolvimento Web
-
-🟡 Criar projetos com automação e IoT
-
-🚀 Continuar aprendendo e evoluindo todos os dias
-
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoDiasDorigaoRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDiasDorigaoRodrigues&layout=compact&langs_count=8&theme=tokyonight"/> </div>
-🔥 Contribuições
-<div align="center">
-
-</div>
-📫 Entre em contato
-
-📧 Email: bdias80549@gmail.com
-
-🐙 GitHub: BrunoDiasDorigaoRodrigues
-
-<div align="center">
-🚀 "Aprendendo hoje, desenvolvendo amanhã."
-
-⭐ Obrigado por visitar meu perfil!
-
-</div>
